@@ -1,5 +1,5 @@
 # Turbo Terrier
-## The BU Registration Bot
+The BU Registration Bot
 ---
 
 **Website:** https://turboterrier.com/
