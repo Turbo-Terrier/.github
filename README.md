@@ -2,7 +2,10 @@
 The BU Registration Bot
 ---
 
+**Author:** [Muhammad Aseef Imran](https://www.linkedin.com/in/aseef/)
+
 **Website:** https://turboterrier.com/
+
 **Email:** support@turboterrier.com
 
 ## What is Turbo Terrier
