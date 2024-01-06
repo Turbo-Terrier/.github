@@ -9,7 +9,7 @@ The BU Registration Bot
 **Email:** support@turboterrier.com
 
 ## What is Turbo Terrier
-Turbo Terrier is a software application designed to automatically register you Boston University students for their target course(s) as soon as a slot is detected open. This project is currently a work in progress.
+Turbo Terrier is a software application designed to automatically register you Boston University students for their target course(s) as soon as a slot is detected open. This project is currently a work in progress and has not yet launched to the public.
 
 ## Components
 This project is divided into three major components. As a proprietary software, **not all components of Turbo Terrier** are open source.
